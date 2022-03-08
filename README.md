@@ -1,7 +1,7 @@
 <p align="center">
       <img src="https://github.com/IELTSLEARN/videochat/blob/main/icon.png" height="250px" width="300px" ></img>
       <br><br>
-      videochat edit by : Blackwolf
+      videochat Make by : Blackwolf
  </p>
  
  ---
