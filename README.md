@@ -7,7 +7,7 @@
  ---
  * **If you like the tool and for my personal motivation so as to develop other tools please  leave a +1 star** 
   ---
- ## Features of Nivi-Stealer:
+ ## Features of Video-Chat:
  - Steal Victim Ip
  - Steal Device Info
  - Steal Network and Battery Info
